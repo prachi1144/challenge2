@@ -37,9 +37,10 @@
 }
 .options{
 font-family: serif;
-
-    flex-grow: 1;
- 
+flex-grow: 1;
+}
+a{
+    color: white;
 }
 a:link{
     text-decoration: none;
